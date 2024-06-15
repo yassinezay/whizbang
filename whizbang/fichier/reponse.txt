@@ -1,0 +1,4 @@
+1 - 2000               2 - 1965               3 - 1956
+1 - dromadaires               2 - Elephant               3 - chameaux  
+1 - Spanish               2 - English               3 - Chinese 
+1 - Marie Antoinnette               2 - Elyssa               3 - cleopatre  
